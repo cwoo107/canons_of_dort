@@ -431,6 +431,6 @@ a {
   color: #858170 !important;
 }
 img {
-    max-width:60%;
+    max-width:70%;
 }
 </style>
