@@ -3,11 +3,11 @@
     <b-container fluid class='blue' >
       <b-row>
         <b-col class="blue" xs='12'>
-          <img src="./assets/canons_of_dort.svg"  width='1200' style="padding-top: 100px;position: relative;">
+          <img src="./assets/canons_of_dort.svg"  width='1200' style="padding-top: 125px; position: relative;">
         </b-col>
       </b-row>
       <b-row id='title1'>
-        <b-col md='8' offset-md='2' style='padding-bottom:25px'>
+        <b-col md='8' offset-md='2' style='padding-top: 75px; padding-bottom:25px'>
         <h4><b>Divine Election and Reprobation</b></h4>
         <h5>The Judgment Concerning Divine Predestination Which the Synod Declares to Be in Agreement with the Word of God and Accepted Till Now in the Reformed Churches, 
         Set Forth in Several Articles.</h5>
@@ -1019,7 +1019,10 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #180F0E;
-  margin-top:-50px
+  margin-top:-50px;
+  transition-duration: 0.3s;
+  transition-property: opacity;
+  transition-timing-function: ease;
   
 }
 
@@ -1046,7 +1049,7 @@ a {
   color: #858170 !important;
 }
 img {
-  max-width: 70%;
+  max-width: 65%;
     
 }
 </style>
