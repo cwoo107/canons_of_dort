@@ -97,6 +97,82 @@
         </b-col>
       </b-row>
     </b-container >
+    <b-container fluid>
+      <b-row>
+      <b-col cols="2" class="d-none d-lg-block">
+        <b-list-group v-b-scrollspy:listgroup-ex style='text-align:left !important; padding-top: 15px'>
+          <b-list-group-item href="#title1">I Divine Election and Reprobation</b-list-group-item>
+          <b-list-group-item style='padding-left: 25px' href='#1'>Article 1</b-list-group-item>
+            <b-list-group-item style='padding-left: 25px' href='#2'>Article 2</b-list-group-item>  
+            <b-list-group-item style='padding-left: 25px' href='#3'>Article 3</b-list-group-item>  
+            <b-list-group-item style='padding-left: 25px' href='#4'>Article 4</b-list-group-item > 
+            <b-list-group-item style='padding-left: 25px' href='#5'>Article 5</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#6'>Article 6</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#7'>Article 7</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#8'>Article 8</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#9'>Article 9</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#10'>Article 10</b-list-group-item > 
+            <b-list-group-item style='padding-left: 25px' href='#11'>Article 11</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#12'>Article 12</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#13'>Article 13</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#14'>Article 14</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#15'>Article 15</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#16'>Article 16</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#17'>Article 17</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#18'>Article 18</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#19'>Rejections</b-list-group-item >
+          <b-list-group-item href='#title2' >II Christ's Death and Human Redemption Through It</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#1a'>Article 1</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#2a'>Article 2</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#3a'>Article 3</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#4a'>Article 4</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#5a'>Article 5</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#6a'>Article 6</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#7a'>Article 7</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#8a'>Article 8</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#9a'>Article 9</b-list-group-item   >
+            <b-list-group-item style='padding-left: 25px' href='#10a'>Rejections</b-list-group-item  >
+            <b-list-group-item href='#title3' >III & IV Human Corruption, Conversion to God, and the Way It Occurs</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#1b'>Article 1</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#2b'>Article 2</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#3b'>Article 3</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#4b'>Article 4</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#5b'>Article 5</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#6b'>Article 6</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#7b'>Article 7</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#8b'>Article 8</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#9b'>Article 9</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#10b'>Article 10</b-list-group-item > 
+            <b-list-group-item style='padding-left: 25px' href='#11b'>Article 11</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#12b'>Article 12</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#13b'>Article 13</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#14b'>Article 14</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#15b'>Article 15</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#16b'>Article 16</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#17b'>Article 17</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#18b'>Rejections</b-list-group-item  >
+          <b-list-group-item href='#title5' >V The Perseverance of the Saints</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#1c'>Article 1</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#2c'>Article 2</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#3c'>Article 3</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#4c'>Article 4</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#5c'>Article 5</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#6c'>Article 6</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#7c'>Article 7</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#8c'>Article 8</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#9c'>Article 9</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#10c'>Article 10</b-list-group-item > 
+            <b-list-group-item style='padding-left: 25px' href='#11c'>Article 11</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#12c'>Article 12</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#13c'>Article 13</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#14c'>Article 14</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#15c'>Article 15</b-list-group-item  >
+            <b-list-group-item style='padding-left: 25px' href='#16c'>Rejections</b-list-group-item  >
+            <b-list-group-item href='#16c'>Rejection of False Accusations</b-list-group-item  >
+        </b-list-group>
+      </b-col>
+    <b-col lg="10" md='12' style='padding-top: 20px'>
+      <div id="listgroup-ex" style="position:relative; overflow-y:auto; height:3495px; ">
     <b-container id='1' fluid style="padding-top:200px; padding-bottom:200px;">
       <b-row >
         <b-col md='10' offset-md='1'  >
@@ -989,6 +1065,11 @@ For Moses contradicts this when he addresses the people of Israel as follows: â€
       </b-row>
     </b-container>
 
+ </div>
+    </b-col>
+    </b-row>
+    </b-container>
+    
     <b-container fluid class='blue' style="padding-top:25px; padding-bottom:25px">
       <b-row >
         <b-col sm='4' offset-sm='4'>
